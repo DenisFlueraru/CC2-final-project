@@ -1,14 +1,14 @@
-# (Title)
-(Short description)
+# Listen, Think, Speak
+An interactive musical conversation with the computer.
 
 ## (Installing)
-...
+No external libraries used, can be used with Max MSP out of the box
 
 ## (Usage)
-...
+Play and generate notes by having a musical dialogue with the computer. In case you are stuck with a song progression use this to help you finish a track and inspire you.
 
 ## (Links)
-...
+https://drive.google.com/drive/folders/1lNLYXCbDqr3G-cMx2uHOSRP-BHZyhxXn?usp=sharing
 
 # Submitting your project
 
